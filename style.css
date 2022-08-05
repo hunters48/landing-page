@@ -166,7 +166,8 @@ li {
     background-color: #3882f6;
     border-color: #e5e7eb;
     color: #e5e7eb;
-    padding-inline: 10px;
+    padding-inline: 20px;
+    border: solid;
 }
 
 
