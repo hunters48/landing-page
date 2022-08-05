@@ -92,8 +92,8 @@ li {
 
 .info-img {
     object-fit: cover;
-    height: 110px;
-    width: 110px;
+    height: 150px;
+    width: 150px;
     border-radius: 10px;
     border: 5px solid #3882f6;
 }
@@ -101,7 +101,7 @@ li {
 .info {
     display: flex ;
     flex-direction: column;
-    width: 120px;
+    width: 150px;
     height: auto;
     margin: 50px;
 }
